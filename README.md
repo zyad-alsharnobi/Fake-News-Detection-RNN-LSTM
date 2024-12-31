@@ -37,7 +37,7 @@ Try the [Streamlit app](https://fake-news-detection-with-rnn-and-lstm.streamlit.
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/ziadmostafa1/Fake_News_Detection_with_RNN_and_LSTM.git
+git clone https://github.com/zyad-alsharnobi/Fake_News_Detection_with_RNN_and_LSTM.git
 cd Fake_News_Detection_with_RNN_and_LSTM
 ```
 
@@ -97,6 +97,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - Streamlit
 - Scikit-learn
 
-## 📞 Contact
-Ziad Mostafa
-- GitHub: [@ziadmostafa1](https://github.com/ziadmostafa1)
